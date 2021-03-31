@@ -7,7 +7,7 @@ function App() {
   //set up state and api key
   const [weather, setWeather] = useState([]);
   //this api key has been changed - in order to protect it
-  const APIKEY = "b9b5c37e19cdd7ac09cfaghi";
+  const APIKEY = "b9b5c37e19cdd7ac09cfa9355";
   // async function fetch set state to api call and organize data
 
   async function fetchData(e) {
